@@ -101,13 +101,13 @@ ol {
 ::selection {
     background: #FEF7A4;
     /* Safari */
-    
+
     color: #333;
 }
 ::-moz-selection {
     background: #FEF7A4;
     /* Firefox */
-    
+
     color: #333;
 }
 /* Preloader */
@@ -484,7 +484,7 @@ ol.type li a.active {
 .isotope,
 .isotope .isotope-item {
     /* change duration value to whatever you like */
-    
+
     -webkit-transition-duration: 0.8s;
     -moz-transition-duration: 0.8s;
     transition-duration: 0.8s;
